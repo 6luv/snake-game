@@ -20,6 +20,14 @@
 
 ---
 
+### 일시정지 & 타이틀 이동
+
+<img src=https://user-images.githubusercontent.com/63906895/190692285-dc5cf6b9-1355-43d6-a4c3-924c5d2a3a53.jpg width="600" height="400">
+<img src=https://user-images.githubusercontent.com/63906895/190692110-918d66c5-ed97-46fb-952f-ae20b747c9c0.jpg width="600" height="400">
+
+
+---
+
 ### 결과 화면  
   
 <img src=https://user-images.githubusercontent.com/63906895/190691356-d31b3444-4405-4221-b7bd-363f5c409183.jpg width="600" height="400">
